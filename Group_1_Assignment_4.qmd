@@ -1,0 +1,29 @@
+---
+title: "ECON 334 Assignment XXX (Group Assignment)"
+format: 
+  html:
+    embed-resources: true
+execute: 
+  message: true
+  warning: true
+---
+
+### Tutorial Section: (your tutorial section)
+### Group Number: (your group number)
+### Group Member 1: (name & student number of first group member)
+### Group Member 2: (name & student number of second group member)
+### Group Member 3: (name & student number of third group member)
+### Group Member 4: (name & student number of fourth group member)
+
+#### Acknowledgements: (cite any persons or resources outside of your group -- including online resources and AI tools -- that you relied on to complete this assignment, and briefly explain how they helped you. Example: my roommate Bob Loblaw is a STAT major and he showed me to how to format ggplot titles. Another example: My friend Wei is a student in ECON 334 but is not a member of our group, and we discussed question 2 at length. Another example: Our R code for question 3 wasn't working, so we asked ChatGPT to help us debug it; we've attached a copy of the prompts we used below. Another example: we watched this youtube video about ggplot: https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+
+Use this template for your ECON 334 group assignments. Replace this line and everything below with your answers to the assigned questions. Remember that you can paste R code chunks between delimiters like this:
+
+```{r}
+
+```
+
+When you render this file in RStudio, it will create a nicely formatted .html document that includes your R code and its output, as well as any plain text that you include as part of your answers. Save the html file and submit it via Canvas to complete the assignment. Don't forget to fill in the names and student numbers of group members above, as well as all acknowledgments!
+
+Note: I have set the message and warning options to true in the quarto header. That will help you debug your code as you work. But you will probably want to change those options to false before rendering the final version of your document.

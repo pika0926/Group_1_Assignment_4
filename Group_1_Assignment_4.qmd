@@ -21,7 +21,6 @@ execute:
 Use this template for your ECON 334 group assignments. Replace this line and everything below with your answers to the assigned questions. Remember that you can paste R code chunks between delimiters like this:
 
 ```{r}
-print("hello everyone")
 
 ```
 
